@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GOQii NutriForge - New 2.3.1-Final",
+  "description": "An AI-powered personal nutrition intelligence platform that builds personalized meal plans and adapts to user habits with smart alternatives.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
