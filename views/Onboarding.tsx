@@ -72,7 +72,7 @@ const Onboarding: React.FC<OnboardingProps> = ({ onComplete }) => {
             <div className="relative z-10 p-8 pb-16 text-center space-y-6 animate-in slide-in-from-bottom-8 duration-1000">
               <div className="space-y-3">
                 <h1 className={`${Typography.h1} ${Typography.Black} text-white leading-[1.1]`}>
-                  Nutrition That Understands Your Body
+                  Nutrition that understands your body
                 </h1>
                 <p className={`text-slate-200 ${Typography.bodyBold} px-4 opacity-90`}>
                   Powered by food science, genetics & lifestyle data
